@@ -1,0 +1,13 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+   float num;
+   cout << "Digite um numero: ";
+   cin >> num;
+   cout << "O dobro sera: ";
+   cout << num*2;
+    return 0;
+}
